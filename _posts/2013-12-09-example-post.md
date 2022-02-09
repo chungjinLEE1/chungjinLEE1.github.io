@@ -6,9 +6,9 @@ date:   2013-12-09 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## BRINKS KOREA DEVELOPER 
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+I record what I study , [The Development](http://thedevelopment.co).
 
 ## Open Sourced on GitHub
 
